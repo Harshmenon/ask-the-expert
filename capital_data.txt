@@ -1,0 +1,12 @@
+india/new dehli
+china/beijing
+france/paris
+argentina/buenos aires
+eygpt/cairo
+pakistan/islamabad
+italy/rome
+australia/canberra
+bangladesh/dhaka
+sri lanka/Sri Jayawardenapura Kotte
+armenia/Yerevan
+austria/Vienna
